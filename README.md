@@ -29,4 +29,4 @@ Tenho experiência prática no desenvolvimento de interfaces fluídas e lógica 
 </a>
 
 ---
-<p align="center"><i>"A tecnologia move o mundo." 🚀</i></p>
+<p align="center"><i>"A educação é claramente o fator que irá conduzir melhorias na economia a longo prazo. No futuro, software e tecnologia irão permitir que as pessoas aprendam muito com seus colegas." 🚀</i></p>
