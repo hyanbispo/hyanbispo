@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Engenharia de Software
 
-Sou um entusiasta de tecnologia focado na construção de soluções escaláveis e desenvolvimento web. Atualmente cursando Engenharia de Software na **Anhanguera University** (Previsão: 2028).
+Sou um entusiasta de tecnologia focado na construção de soluções escaláveis e desenvolvimento web. Atualmente cursando Engenharia de Software na **Anhanguera University**.
 
 Tenho experiência prática no desenvolvimento de interfaces fluídas e lógica de programação, com forte interesse em **Metodologias Ágeis**, **Engenharia de Dados** e inovação tecnológica.
 
